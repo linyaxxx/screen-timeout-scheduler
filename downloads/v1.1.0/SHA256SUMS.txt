@@ -1,0 +1,1 @@
+a3f8a4e84e06121044cac0fc70b2e9cb397be30e0757e7b2f3f19ec26fa88dae  ScreenTimeoutScheduler-v1.1.0-Windows.zip
