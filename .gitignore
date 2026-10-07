@@ -1,0 +1,13 @@
+/release/
+/verification/
+/preview-data/
+/publish/
+/屏幕省电时段-v1.1/
+/*.zip
+/界面预览.png
+*.tmp
+*.log
+settings.xml
+original-settings.xml
+Thumbs.db
+.DS_Store
